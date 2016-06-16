@@ -1,0 +1,87 @@
+/* RESET ==================================================================== */
+body,td,input,textarea,select{font-family:Helvetica Neue !important}
+.b8 .vh,.cd .vh,.cc .vh{font-weight:200;font-size:100%;}
+.ma{display:none}
+/* terms privacy */
+/* HEADER ======================================================================= */
+.G-atb{border:none}
+.Wn{color:#aaa;font-weight:200}
+/* Google */
+#gbq1{min-width:170px !important}
+/* Search bar */
+.gb_se{width:80%}
+/* wrapper */
+/* Search input */
+#gbq2{padding:0}
+.gbqfqw{padding-top:0.8em;height:4em;box-shadow:none !important;}
+#gbqfq{height:2em;font-size:1.5em !important;letter-spacing:1px;margin:0;background:#fff !important;}
+/* Search button */
+.gb_fa #gbqfb,.gb_X #gbqfb{box-shadow:none;height:5em;}
+#gbqfb{background:#ddd;}
+/* FOOTER ===================== */
+.l2 a,.mj,.l6,.l8{color:#aaa !important;text-align:center;}
+.l2 div{padding:0;margin:0;}
+/* INBOX ==================================================================== */
+.AO{box-shadow:0 0 1em #ddd;}
+/* rows */
+table.F{font-size:1.2em}
+table.F tr:hover{background-color:#EFBE9A}
+/* hover message list rows */
+/* Columns */
+col.k0vOLb{width:5px}
+/* Checkbox */
+col.Ci,col.y5{width:20px}
+/* Star important */
+col.yY{width:15%;}
+/* From */
+/* From */
+td.yX{padding:0;}
+div.yW{width:90% !important;overflow:hidden;}
+/* Subject */
+.y6{font-weight:500;color:#555;padding:0.2em;}
+/* Date */
+.zt .xW{padding-right:0.5em;font-weight:200}
+.xX{width:8ex}
+/* MESSAGES ==================================================================== */
+/* msg preview */
+.y2{font-size:0.8em;color:#aaa}
+/* email text */
+.a3s{font:100 1.4em/1.3em Georgia;color:#333}
+/* SIDEBAR ==================================================================== */
+.aeN{width:160px !important;padding-right:10px;}
+.aeN .ajl{height:100%;font-size:1.1em !important}
+/* Rows/Links */
+.aeN .ajl a{padding:0.2em;width:auto;display:block;}
+.aeN .ajl a:hover{background:#EFBE9A}
+div.aim,.TO{padding:0 !important}
+div.aim{border-left:10px solid #eee}
+/* Current Tab */
+div.ain{border-left:10px solid #333;}
+/* Pulldown Button */
+div.TH{left:auto;right:20px}
+/* Reset wrappers */
+.aic,.n6{margin:0;}
+div.aiq{margin:0;}
+div.aio{margin:0;}
+span.nU{margin:0;}
+/* More/less */
+.n6{display:none}
+/* Remove More Less */
+.aeN .r9gPwb > div{display:block !important}
+/* Make the following div shown always */
+/* We have messages class */
+.n1 .n0{background:#fff}
+/* generally */
+/* Non-essential text */
+.CK,.aJZ a,.aat a{color:#aaa !important;display:none !important;}
+/* GCHAT ==================================================================== */
+.akc{opacity:0.5;margin-top:2em;height:20% !important}
+/* Loading thingie ==================================================================== */
+.b8 .vh,.cc .vh,.vX .vh{width:100%;padding:0.5em;font-size:1.2em;background:#fff;border:1px solid #eee;box-shadow:0 0 2em #eee}
+/* Make animated ==================================================================== */
+.vX,#loading,.lpb{transition:all 0.5s ease-in;-moz-transition:all 0.5s ease-in;-webkit-transition:all 0.5s ease-in;}
+/* Startup Loader ==================================================================== */
+#loading{opacity:0.9;}
+.msg{font-weight:100 !important;font-size:2em;}
+.lpb{width:80%;height:1em;}
+#lpt{background-size:2em 1em;}
